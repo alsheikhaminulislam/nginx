@@ -1,0 +1,100 @@
+2023/06/20 15:06:04 [emerg] 7272#8120: CreateFile() "C:\Users\Aminul\Downloads\Compressed\nginx 1.7.11.3 Gryphon/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2023/06/20 15:42:28 [notice] 14704#4728: sockinit() attempting to access sockapi
+2023/06/20 15:42:28 [notice] 14704#4728: Access to sockapi succeded!
+2023/06/20 15:42:28 [notice] 14704#4728: using sockapi from "4;"
+2023/06/20 15:44:56 [notice] 13768#8088: sockinit() attempting to access sockapi
+2023/06/20 15:44:56 [notice] 13768#8088: Access to sockapi succeded!
+2023/06/20 15:44:56 [notice] 13768#8088: using sockapi from "4;"
+2023/06/20 15:44:56 [notice] 7616#16168: sockinit() attempting to access sockapi
+2023/06/20 15:44:56 [notice] 7616#16168: Access to sockapi succeded!
+2023/06/20 15:44:56 [notice] 7616#16168: using sockapi from "4;"
+2023/06/20 15:52:48 [notice] 6120#9708: sockinit() attempting to access sockapi
+2023/06/20 15:52:48 [notice] 6120#9708: Access to sockapi succeded!
+2023/06/20 15:52:48 [notice] 6120#9708: using sockapi from "4;"
+2023/06/20 15:52:50 [notice] 16072#6628: sockinit() attempting to access sockapi
+2023/06/20 15:52:50 [notice] 16072#6628: Access to sockapi succeded!
+2023/06/20 15:52:50 [notice] 16072#6628: using sockapi from "4;"
+2023/06/20 15:52:53 [notice] 16172#5088: sockinit() attempting to access sockapi
+2023/06/20 15:52:53 [notice] 16172#5088: Access to sockapi succeded!
+2023/06/20 15:52:53 [notice] 16172#5088: using sockapi from "4;"
+2023/06/20 15:52:54 [notice] 6684#8504: sockinit() attempting to access sockapi
+2023/06/20 15:52:54 [notice] 6684#8504: Access to sockapi succeded!
+2023/06/20 15:52:54 [notice] 6684#8504: using sockapi from "4;"
+2023/06/20 15:52:59 [notice] 9004#13120: sockinit() attempting to access sockapi
+2023/06/20 15:52:59 [notice] 9004#13120: Access to sockapi succeded!
+2023/06/20 15:52:59 [notice] 9004#13120: using sockapi from "4;"
+2023/06/20 15:53:05 [notice] 7320#12664: sockinit() attempting to access sockapi
+2023/06/20 15:53:05 [notice] 7320#12664: Access to sockapi succeded!
+2023/06/20 15:53:05 [notice] 7320#12664: using sockapi from "4;"
+2023/06/20 15:53:09 [notice] 15900#12216: sockinit() attempting to access sockapi
+2023/06/20 15:53:09 [notice] 15900#12216: Access to sockapi succeded!
+2023/06/20 15:53:09 [notice] 15900#12216: using sockapi from "4;"
+2023/06/20 15:53:11 [notice] 5196#4912: sockinit() attempting to access sockapi
+2023/06/20 15:53:11 [notice] 5196#4912: Access to sockapi succeded!
+2023/06/20 15:53:11 [notice] 5196#4912: using sockapi from "4;"
+2023/06/20 15:53:13 [notice] 14456#3320: sockinit() attempting to access sockapi
+2023/06/20 15:53:13 [notice] 14456#3320: Access to sockapi succeded!
+2023/06/20 15:53:13 [notice] 14456#3320: using sockapi from "4;"
+2023/06/20 15:56:18 [emerg] 2068#1872: invalid port in url "rtmps://live-api-s.facebook.com:443/rtmp/FB-130555626723204-0-Abyd3-FM8R61kdKm" in C:\Users\Aminul\Downloads\Compressed\nginx 1.7.11.3 Gryphon/conf/nginx.conf:29
+2023/06/20 15:56:42 [emerg] 14968#11488: invalid port in url "rtmps://live-api-s.facebook.com:443/rtmp/FB-130555626723204-0-Abyd3-FM8R61kdKm" in C:\Users\Aminul\Downloads\Compressed\nginx 1.7.11.3 Gryphon/conf/nginx.conf:29
+2023/06/20 16:09:45 [notice] 1500#10668: sockinit() attempting to access sockapi
+2023/06/20 16:09:45 [notice] 1500#10668: Access to sockapi succeded!
+2023/06/20 16:09:45 [notice] 1500#10668: using sockapi from "4;"
+2023/06/20 16:09:45 [notice] 3920#2292: sockinit() attempting to access sockapi
+2023/06/20 16:09:45 [notice] 3920#2292: Access to sockapi succeded!
+2023/06/20 16:09:45 [notice] 3920#2292: using sockapi from "4;"
+2023/06/20 16:31:08 [notice] 12796#1432: sockinit() attempting to access sockapi
+2023/06/20 16:31:08 [notice] 12796#1432: Access to sockapi succeded!
+2023/06/20 16:31:08 [notice] 12796#1432: using sockapi from "4;"
+2023/06/20 16:31:08 [notice] 12412#10152: sockinit() attempting to access sockapi
+2023/06/20 16:31:08 [notice] 12412#10152: Access to sockapi succeded!
+2023/06/20 16:31:08 [notice] 12412#10152: using sockapi from "4;"
+2023/06/20 16:34:15 [notice] 14860#1044: sockinit() attempting to access sockapi
+2023/06/20 16:34:15 [notice] 14860#1044: Access to sockapi succeded!
+2023/06/20 16:34:15 [notice] 14860#1044: using sockapi from "4;"
+2023/06/20 16:34:15 [notice] 4568#992: sockinit() attempting to access sockapi
+2023/06/20 16:34:15 [notice] 4568#992: Access to sockapi succeded!
+2023/06/20 16:34:15 [notice] 4568#992: using sockapi from "4;"
+2023/06/20 22:02:20 [emerg] 12992#12920: invalid port in url "youtube_url:rtmp://a.rtmp.youtube.com/live2/9725-rw5u-jaqt-5ygd-ac8y" in C:\Users\Aminul\Downloads\Compressed\nginx/conf/nginx.conf:16
+2023/06/20 22:04:41 [notice] 11980#3100: sockinit() attempting to access sockapi
+2023/06/20 22:04:41 [notice] 11980#3100: Access to sockapi succeded!
+2023/06/20 22:04:41 [notice] 11980#3100: using sockapi from "4;"
+2023/06/20 22:04:41 [notice] 10880#3872: sockinit() attempting to access sockapi
+2023/06/20 22:04:41 [notice] 10880#3872: Access to sockapi succeded!
+2023/06/20 22:04:41 [notice] 10880#3872: using sockapi from "4;"
+2023/06/20 23:14:07 [notice] 7180#12680: sockinit() attempting to access sockapi
+2023/06/20 23:14:07 [notice] 7180#12680: Access to sockapi succeded!
+2023/06/20 23:14:07 [notice] 7180#12680: using sockapi from "4;"
+2023/06/20 23:14:07 [notice] 11072#8184: sockinit() attempting to access sockapi
+2023/06/20 23:14:07 [notice] 11072#8184: Access to sockapi succeded!
+2023/06/20 23:14:07 [notice] 11072#8184: using sockapi from "4;"
+2023/06/21 18:49:58 [notice] 9436#9196: sockinit() attempting to access sockapi
+2023/06/21 18:49:58 [notice] 9436#9196: Access to sockapi succeded!
+2023/06/21 18:49:58 [notice] 9436#9196: using sockapi from "4;"
+2023/06/21 18:49:58 [notice] 12344#9148: sockinit() attempting to access sockapi
+2023/06/21 18:49:58 [notice] 12344#9148: Access to sockapi succeded!
+2023/06/21 18:49:58 [notice] 12344#9148: using sockapi from "4;"
+2023/06/21 18:53:03 [notice] 13968#8772: sockinit() attempting to access sockapi
+2023/06/21 18:53:03 [notice] 13968#8772: Access to sockapi succeded!
+2023/06/21 18:53:03 [notice] 13968#8772: using sockapi from "4;"
+2023/06/21 18:53:03 [notice] 14700#7828: sockinit() attempting to access sockapi
+2023/06/21 18:53:03 [notice] 14700#7828: Access to sockapi succeded!
+2023/06/21 18:53:03 [notice] 14700#7828: using sockapi from "4;"
+2023/06/21 19:50:39 [notice] 6440#13276: sockinit() attempting to access sockapi
+2023/06/21 19:50:39 [notice] 6440#13276: Access to sockapi succeded!
+2023/06/21 19:50:39 [notice] 6440#13276: using sockapi from "4;"
+2023/06/21 19:50:39 [notice] 7316#5332: sockinit() attempting to access sockapi
+2023/06/21 19:50:39 [notice] 7316#5332: Access to sockapi succeded!
+2023/06/21 19:50:39 [notice] 7316#5332: using sockapi from "4;"
+2023/06/23 15:43:35 [notice] 3968#11760: sockinit() attempting to access sockapi
+2023/06/23 15:43:35 [notice] 3968#11760: Access to sockapi succeded!
+2023/06/23 15:43:35 [notice] 3968#11760: using sockapi from "4;"
+2023/06/23 15:43:36 [notice] 13508#6424: sockinit() attempting to access sockapi
+2023/06/23 15:43:36 [notice] 13508#6424: Access to sockapi succeded!
+2023/06/23 15:43:36 [notice] 13508#6424: using sockapi from "4;"
+2023/06/23 21:06:36 [notice] 4456#6540: sockinit() attempting to access sockapi
+2023/06/23 21:06:36 [notice] 4456#6540: Access to sockapi succeded!
+2023/06/23 21:06:36 [notice] 4456#6540: using sockapi from "4;"
+2023/06/23 21:06:36 [notice] 12724#12828: sockinit() attempting to access sockapi
+2023/06/23 21:06:36 [notice] 12724#12828: Access to sockapi succeded!
+2023/06/23 21:06:36 [notice] 12724#12828: using sockapi from "4;"
